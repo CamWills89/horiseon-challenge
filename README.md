@@ -13,6 +13,7 @@ The goal of this project was to take existing code that was created for a websit
 *CSS
 
 ###Screenshot
-
+![Image](https://www.screencast.com/t/u3D08liA)
+![Image](https://www.screencast.com/t/k3ebf8nD)
 ###URL
 http://127.0.0.1:5500/Develop/index.html
