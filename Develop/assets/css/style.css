@@ -23,7 +23,7 @@ p {
 /* Styles for navigation/header */
 
 .header {
-    padding: 20px;
+    padding: 20px 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -40,10 +40,10 @@ p {
 
 .header nav {
     padding-top: 15px;
-    margin-right: 20px;
+    margin-right: 35px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .header nav ul {
@@ -52,7 +52,7 @@ p {
 
 .header nav ul li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 45px;
 }
 
 
