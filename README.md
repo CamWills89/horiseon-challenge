@@ -13,9 +13,9 @@ The goal of this project was to take existing code that was created for a websit
 * CSS
 
 ### Screenshot
-[1]: (https://www.screencast.com/t/u3D08liA)
+[Screenshot 1]: (https://www.screencast.com/t/u3D08liA)
 
-[2]: (https://www.screencast.com/t/k3ebf8nD)
+[Screenshot 2]: (https://www.screencast.com/t/k3ebf8nD)
 
 ### Link
 https://camwills89.github.io/horiseon-challenge/
