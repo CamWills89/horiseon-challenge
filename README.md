@@ -14,9 +14,9 @@ The goal of this project was to take existing code that was created for a websit
 
 ### Screenshot
 
-[Screenshot 1]: (https://www.screencast.com/t/u3D08liA)
+[Screenshot 1](https://www.screencast.com/t/u3D08liA)
 
-[Screenshot 2]: (https://www.screencast.com/t/k3ebf8nD)
+[Screenshot 2](https://www.screencast.com/t/k3ebf8nD)
 
 ### Link
 
