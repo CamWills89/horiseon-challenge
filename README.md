@@ -13,11 +13,13 @@ The goal of this project was to take existing code that was created for a websit
 * CSS
 
 ### Screenshot
+
 [Screenshot 1]: (https://www.screencast.com/t/u3D08liA)
 
 [Screenshot 2]: (https://www.screencast.com/t/k3ebf8nD)
 
 ### Link
+
 https://camwills89.github.io/horiseon-challenge/
 
 http://127.0.0.1:5500/Develop/index.html
