@@ -22,6 +22,4 @@ The goal of this project was to take existing code that was created for a websit
 
 [Github Pages](https://camwills89.github.io/horiseon-challenge/)
 
-[Live URL](http://127.0.0.1:5500/Develop/index.html)
-
 [Github repository](https://github.com/CamWills89/horiseon-challenge)
