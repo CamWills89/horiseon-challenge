@@ -20,6 +20,6 @@ The goal of this project was to take existing code that was created for a websit
 
 ### Link
 
-[Github Pages](https://camwills89.github.io/horiseon-challenge/)
+[Live URL](https://camwills89.github.io/horiseon-challenge/)
 
 [Github repository](https://github.com/CamWills89/horiseon-challenge)
